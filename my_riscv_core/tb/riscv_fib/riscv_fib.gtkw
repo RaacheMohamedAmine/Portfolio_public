@@ -1,0 +1,15 @@
+[timestart] 0
+[size] 1400 700
+*-17.500000 60000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+@28
+riscv_fib_tb.clk
+riscv_fib_tb.rst
+@22
+riscv_fib_tb.imem_addr[31:0]
+riscv_fib_tb.imem_rdata[31:0]
+@28
+riscv_fib_tb.dmem_we
+@22
+riscv_fib_tb.dmem_addr[31:0]
+@24
+riscv_fib_tb.dmem_wdata[31:0]

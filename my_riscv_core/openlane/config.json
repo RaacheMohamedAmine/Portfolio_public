@@ -1,0 +1,15 @@
+{
+    "DESIGN_NAME": "riscv_core",
+    "VERILOG_FILES": "dir::../work/riscv_core/riscv_core_netlist.v",
+    "RUN_LINTER": false,
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20.0,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 650 650",
+    "PL_TARGET_DENSITY": 0.45,
+    "FP_PDN_AUTO_ADJUST": false,
+    "FP_PDN_VPITCH": 150.0,
+    "FP_PDN_HPITCH": 150.0,
+    "FP_PDN_VOFFSET": 16.32,
+    "FP_PDN_HOFFSET": 16.65
+}
